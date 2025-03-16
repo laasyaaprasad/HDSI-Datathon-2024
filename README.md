@@ -78,7 +78,7 @@ farmers.
     
  <img width="988" alt="Screenshot 2024-10-08 at 12 43 19 AM" src="https://github.com/user-attachments/assets/4c9967e4-8acc-4427-bfbc-3a43a0c00f7f">
 
- e above question can be answered by calculating the correlation between farmer's age and crop types sales in dollars both before and after inflation adjustment.
+ The above question can be answered by calculating the correlation between farmer's age and crop types sales in dollars both before and after inflation adjustment.
 
 #### Nominal vs. Inflation-Adjusted Correlations:
 
